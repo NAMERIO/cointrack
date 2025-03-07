@@ -1,5 +1,7 @@
 # Cryptocurrency Tracker
 
+⚠️ Developer Warning: This project uses the CoinGecko public API, which can be slow and has request limits. Be mindful of these constraints when pulling data.
+
 A modern cryptocurrency tracker that displays real-time market data, including top coins, total market value, and price trends, with interactive graphs and UI built using React, TypeScript, and the CoinGecko API.
 
 ## Setup Instructions
